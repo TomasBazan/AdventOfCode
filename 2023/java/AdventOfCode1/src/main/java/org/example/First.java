@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
-public class Main {
+public class First {
     public static void main(String[] args) {
         int acum = 0;
         File inputText = new File("./src/main/java/org/example/1.txt");
