@@ -54,8 +54,6 @@ for (let line of lines) {
             else {
                 secondNumber = numberValue;
             }
-            // could advance the index until the end of the word
-            // letterIndex += numberKey.length - 1;
         }
         else {
             continue;

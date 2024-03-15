@@ -5,7 +5,8 @@
   "main": "1.ts",
   "type": "module",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "start": "npm run build && node ./src/2.js"
   },
   "author": "",
   "license": "ISC",
